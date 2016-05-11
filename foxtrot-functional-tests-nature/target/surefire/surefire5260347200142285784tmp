@@ -1,0 +1,8 @@
+#surefire
+#Thu Feb 05 11:08:44 IST 2015
+browser=firefox
+user.dir=E\:\\Repositories\\foxtrot-functional-tests\\foxtrot-functional-tests-nature
+threads=1
+localRepository=C\:\\Users\\ravikant.tyagi\\.m2\\repository
+mode=test
+basedir=E\:\\Repositories\\foxtrot-functional-tests\\foxtrot-functional-tests-nature
